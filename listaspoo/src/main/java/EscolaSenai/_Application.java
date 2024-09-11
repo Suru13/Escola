@@ -29,8 +29,8 @@ public class _Application {
         (×)•-> Montar todos os relacionamentos entre classes
          * 
          * 
-         */
-
+         
+Escola primeira entrega
         //DISCIPLINA
         Disciplina disciplina1 = new Disciplina("TIC", "Lógica de Programação", "Integral", "Jul-2024", "Dez-2024");
         Disciplina disciplina2 = new Disciplina("TIC", "Banco de Dados", "Integral", "Jul-2024", "Dez-2024");
@@ -105,5 +105,8 @@ public class _Application {
         nota3.imprimeBoletim();
         nota4.imprimeBoletim();
         nota5.imprimeBoletim();
+        Fim 
+        */
+        Menu.menuAluno();
 	}
 }
